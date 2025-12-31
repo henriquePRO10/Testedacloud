@@ -1,5 +1,5 @@
 # Cloudflare Pages Configuration
-name = "taskflow"
+name = "taskflow-pro"
 pages_build_output_dir = "dist"
 
 # D1 Database Binding for Pages Functions
