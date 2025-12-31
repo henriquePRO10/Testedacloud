@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow Pro",
+  "description": "A modern, lightweight task management application with customizable categories, deadlines, and persistence-ready architecture for Cloudflare D1.",
+  "requestFramePermissions": []
+}
