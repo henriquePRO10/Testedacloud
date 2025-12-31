@@ -1,0 +1,9 @@
+name = "taskflow-pro"
+compatibility_date = "2024-12-31"
+pages_build_output_dir = "dist"
+
+# D1 Database Binding
+[[d1_databases]]
+binding = "DB"
+database_name = "taskflow-db"
+database_id = "f47a9235-1e7d-4c43-802b-24e4a6460468"
